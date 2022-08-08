@@ -5,7 +5,7 @@ function maxInAarray(numbers) {
         const index = i;
         const element = numbers[index];
         console.log(element);
-        if (element > largest) {
+        if (element >largest) {
             largest = element;
         }
        
